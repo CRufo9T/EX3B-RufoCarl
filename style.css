@@ -1,0 +1,16 @@
+.container{
+	text-align: center;
+	font-family: times new roman;
+	background-color: darkblue;
+	color: white;
+	border-radius: 25px;
+}
+body{
+	background-color: black;
+}
+img{
+	width: 200px;
+}
+button{
+	color: white;
+}
